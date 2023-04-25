@@ -1,0 +1,23 @@
+body {
+    margin: 10px;
+  }
+  
+  .enlace {
+    margin-top: 20px;
+  }
+  
+  .enlace a {
+    color: #000;
+    text-decoration: none;
+  }
+  
+  @media (max-width: 768px) {
+    body {
+      margin: 5px;
+    }
+  
+    .enlace {
+      margin-top: 10px;
+    }
+  }
+  
